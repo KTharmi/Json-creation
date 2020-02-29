@@ -1,0 +1,10 @@
+C:\Users\Unicom User\source\repos\JsonCreation\bin\Debug\JsonCreation.exe.config
+C:\Users\Unicom User\source\repos\JsonCreation\bin\Debug\JsonCreation.exe
+C:\Users\Unicom User\source\repos\JsonCreation\bin\Debug\JsonCreation.pdb
+C:\Users\Unicom User\source\repos\JsonCreation\bin\Debug\Json.Net.dll
+C:\Users\Unicom User\source\repos\JsonCreation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Unicom User\source\repos\JsonCreation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Unicom User\source\repos\JsonCreation\obj\Debug\JsonCreation.csprojAssemblyReference.cache
+C:\Users\Unicom User\source\repos\JsonCreation\obj\Debug\JsonCreation.csproj.CopyComplete
+C:\Users\Unicom User\source\repos\JsonCreation\obj\Debug\JsonCreation.exe
+C:\Users\Unicom User\source\repos\JsonCreation\obj\Debug\JsonCreation.pdb
